@@ -5,4 +5,6 @@ view it live in the browser. You will be able to use HTML snippets for your head
 files, it will automatically build your project and update your browser without having to press the refresh button.  You will also be able to host your website on GitHub pages.
 
 ![Gulp Config](screenshots/screenshot.png)
+# Github Pages
+[Link to Github Page](https://tommywenjiezhang.github.io/bootstrap_project_starter/)
 
